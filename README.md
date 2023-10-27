@@ -4,7 +4,8 @@ This project is a client-server datalogger simulator where the server has data t
 ![Captura de tela 2023-10-24 211259](https://github.com/HorleyAS/streamlit-dashboard-and-datalogger/assets/62552802/e3a96ae3-0482-4d53-8ea5-5a378f42a293)
 ![Captura de tela 2023-10-24 211432](https://github.com/HorleyAS/streamlit-dashboard-and-datalogger/assets/62552802/6e722797-4c8c-4d34-9e8b-ee0e42c9b761)
 
-Features
+**Features:**
+
 Provides real-time visualization of data using charts, graphs, and meters.
 
 Compare energy production vs consumption in various chart types.
@@ -15,9 +16,7 @@ Energy Consumption Simulation: Simulate the consumption of 20 individual homes w
 
 Simulate the production of energy from a solar unit.
 
-How to Use
-
-Setup:
+**How to Use:**
 
 Clone the repository
 
