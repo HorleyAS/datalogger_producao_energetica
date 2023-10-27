@@ -16,15 +16,19 @@ Energy Consumption Simulation: Simulate the consumption of 20 individual homes w
 Simulate the production of energy from a solar unit.
 
 How to Use
+
 Setup:
 
 Clone the repository
+
 Install streamlit framework.
 
 Navigate to the directory: server.py
+
 Run
 
 Navigate to the directory: client.py
+
 Run: streamlit run client.py
 
 A browser tab will open displaying the dashboard
